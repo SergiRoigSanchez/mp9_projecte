@@ -51,7 +51,7 @@ function imprimirTaula($taula, array $columnes) {
         if ($columnes == null)
             echo "<th>Columna $i</th>";
         else
-            echo "<th>$columnes[0][0]</th>";
+            echo "<th>" . $columnes[$i] . "</th>";
     }
     echo "</tr>";
 
