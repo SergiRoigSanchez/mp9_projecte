@@ -10,8 +10,8 @@ $colors = array("roig", "verd", "blau");
 // Matriu
 $empleats = array(
     array("Sergi", 27, "Desenvolupador"),
-    array("Axel", 28, "Diseñador"),
-    array("Nasim", 35, "Gerente")
+    array("Axel", 28, "Disenyador"),
+    array("Nasim", 35, "Gerent")
 );
 
 $columnes = array("Nom", "Edat", "Ocupació");
