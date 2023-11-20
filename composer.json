@@ -1,0 +1,23 @@
+{
+  "name": "sergiroig/prova",
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "./"
+    ],
+    "files": [
+      "framework/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "sergiroig",
+      "email": "sergiroig@iesebre.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.5",
+    "ext-pdo": "*",
+    "ext-http": "*"
+  }
+}
